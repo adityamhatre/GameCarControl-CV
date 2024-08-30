@@ -1,4 +1,4 @@
-opencv-python==4.3.0.36
+opencv-python==4.8.1.78
 pynput==1.6.8
 numpy==1.16.4
 imutils==0.5.3
